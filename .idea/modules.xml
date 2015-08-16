@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wiederholung.iml" filepath="$PROJECT_DIR$/Wiederholung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakram/javakram.iml" filepath="$PROJECT_DIR$/javakram/javakram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanormal/javanormal.iml" filepath="$PROJECT_DIR$/javanormal/javanormal.iml" />
+    </modules>
+  </component>
+</project>
